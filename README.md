@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculadora Web
 
 Uma calculadora simples construída com HTML, CSS e JavaScript. Este projeto permite realizar operações matemáticas básicas de forma fácil e intuitiva.
@@ -14,3 +15,6 @@ A calculadora oferece uma interface limpa e responsiva, permitindo que os usuár
 - **JavaScript**: Para a lógica e interatividade da calculadora.
 
 
+=======
+# Calculadora_-ADA
+>>>>>>> a76ee2a924d72f16466b79bc5c474e5c07eb04ec
